@@ -85,7 +85,6 @@ kiwisolver==1.4.7
 langcodes==3.4.1
 language_data==1.2.0
 lazy_loader==0.4
-lightgbm==4.3.0
 lightning==2.3.3
 lightning-utilities==0.11.7
 llvmlite==0.43.0
