@@ -1,9 +1,10 @@
-# data-science
-DS Labs
+# Data Science Repository
 
-Integrantes:
+## Repository for labs
+
+Members:
 
 
-Guillermo Alfonso Furlán Estrada 20713
+* Guillermo Alfonso Furlán Estrada - 20713
 
-Diego Andrés Alonzo Medinilla 20172
+* Diego Andrés Alonzo Medinilla - 20172
